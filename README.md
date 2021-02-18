@@ -1,4 +1,4 @@
-#Customer Fun Time
+# Customer Fun Time
 
 This solution is over-engineered to make it close to production.
 The solution uses the parallel stream of Java so, the file can be processed faster depends on the CPU cores number.
